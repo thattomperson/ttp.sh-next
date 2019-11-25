@@ -125,7 +125,7 @@ import Section from '../components/Section.svelte'
       <h2>Skiing / Snowboarding</h2>
     </div>
   </div>
-  <div class="section-item" style="background-image: url(/aws.png)">
+  <div class="section-item" style="background-image: url(/rl.png)">
     <div class="section-title">
       <h2>Rocket League</h2>
     </div>
