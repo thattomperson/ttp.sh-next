@@ -3,7 +3,6 @@ import Section from '../components/Section.svelte'
 </script>
 
 <style>
-
    .section-item {
     display: flex;
     max-width: 28em;
@@ -25,13 +24,6 @@ import Section from '../components/Section.svelte'
   .section-item h2 {
     font-weight: 700;
   }
-
-
-	@media (min-width: 480px) {
-		h1 {
-			font-size: 4em;
-		}
-	}
 
 
   .examples {
@@ -113,7 +105,6 @@ import Section from '../components/Section.svelte'
   </div>
 </Section>
 
-<h1>Hobbies</h1>
 <Section title="Hobbies">
   <div class="section-item" style="background-image: url(/honda.png)">
     <div class="section-title">
