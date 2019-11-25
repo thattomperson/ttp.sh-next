@@ -10,6 +10,10 @@
 	}
 </style>
 
+<script>
+import '../global.css'
+</script>
+
 <main>
 	<slot></slot>
 </main>
